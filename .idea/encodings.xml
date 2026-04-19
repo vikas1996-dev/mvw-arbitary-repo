@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mobile/all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/dispatcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/dispatcher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/it.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/it.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.apps.structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.apps.structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.apps/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.config/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.frontend/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.frontend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mobile/ui.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/dispatcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/dispatcher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.apps.structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.apps.structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.apps/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.config/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.frontend/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvw-adobe-cms/ui.frontend/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
