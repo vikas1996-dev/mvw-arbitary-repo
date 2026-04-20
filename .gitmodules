@@ -1,6 +1,8 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/vikas1996-dev/mvw-mobile.git
+	branch = develop
 [submodule "mvw-adobe-cms"]
 	path = mvw-adobe-cms
 	url = https://github.com/vikas1996-dev/mvw-adobe-cms.git
+	branch = develop
